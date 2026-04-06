@@ -1,0 +1,88 @@
+/*  CARD BASE  */
+.card {
+  padding: 20px;
+  border-radius: 16px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+
+  transition: all 0.3s ease;
+  animation: fadeSlideUp 0.5s ease;
+}
+
+/* Hover effect */
+.card:hover {
+  transform: translateY(-6px) scale(1.02);
+}
+
+/*  LIGHT MODE  */
+.card-light {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(10px);
+  color: #1e293b !important;
+
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+/*  DARK MODE  */
+.card-dark {
+  background: rgba(30, 41, 59, 0.75);
+  backdrop-filter: blur(10px);
+  color: #e2e8f0 !important;
+
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+/*  TITLE  */
+.card_title {
+  font-size: 14px;
+  margin-bottom: 8px;
+  opacity: 0.7;
+  letter-spacing: 0.5px;
+}
+
+/*  AMOUNT  */
+.card_amount {
+  font-size: 26px;
+  font-weight: 700;
+}
+
+/*  COLOR ACCENTS  */
+
+
+.balance-card {
+  border-left: 5px solid #4f46e5;
+}
+
+.income-card {
+  border-left: 5px solid #22c55e;
+}
+
+.expense-card {
+  border-left: 5px solid #ef4444;
+}
+
+/*  GLOW EFFECT  */
+.balance-card:hover {
+  box-shadow: 0 10px 30px rgba(79, 70, 229, 0.3);
+}
+
+.income-card:hover {
+  box-shadow: 0 10px 30px rgba(34, 197, 94, 0.3);
+}
+
+.expense-card:hover {
+  box-shadow: 0 10px 30px rgba(239, 68, 68, 0.3);
+}
+
+/*  ANIMATION  */
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
