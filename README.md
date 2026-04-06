@@ -174,20 +174,28 @@ npm run dev
 
 ## 📸 Screenshots
 
-<h3> Dashboard</h3>
-<img src="../zorvyn/src/assets/lightdashbord1.png" width="700"/>
+## 📸 Screenshots
+
+<h3> Dashboard (Light Mode)</h3>
+<img src="./src/assets/lightdashbord1.png" width="700"/>
 <img src="./assets/lightdashbord2.png" width="700"/>
 
-<h3> Transactions</h3>
+<br/>
+
+<h3> Transactions (Light Mode)</h3>
 <img src="./assets/lighttransaction.png" width="700"/>
 
+<br/>
 
-<h3> Dark Mode</h3>
+<h3> Dashboard (Dark Mode)</h3>
 <img src="./assets/darkdashbord1.png" width="700"/>
 <img src="./assets/darkdashbord2.png" width="700"/>
+
+<br/>
+
+<h3> Transactions (Dark Mode)</h3>
 <img src="./assets/darktransaction.png" width="700"/>
 <img src="./assets/transaction.png" width="700"/>
-
 ---
 
 ##  Author
