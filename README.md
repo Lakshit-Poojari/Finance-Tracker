@@ -175,7 +175,7 @@ npm run dev
 ## 📸 Screenshots
 
 <h3> Dashboard</h3>
-<img src="./assets/lightdashbord1.png" width="700"/>
+<img src="../zorvyn/src/assets/lightdashbord1.png" width="700"/>
 <img src="./assets/lightdashbord2.png" width="700"/>
 
 <h3> Transactions</h3>
