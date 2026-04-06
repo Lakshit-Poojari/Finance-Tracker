@@ -178,24 +178,24 @@ npm run dev
 
 <h3> Dashboard (Light Mode)</h3>
 <img src="./src/assets/lightdashbord1.png" width="700"/>
-<img src="./assets/lightdashbord2.png" width="700"/>
+<img src="./src/assets/lightdashbord2.png" width="700"/>
 
 <br/>
 
 <h3> Transactions (Light Mode)</h3>
-<img src="./assets/lighttransaction.png" width="700"/>
+<img src="./src/assets/lighttransaction.png" width="700"/>
 
 <br/>
 
 <h3> Dashboard (Dark Mode)</h3>
-<img src="./assets/darkdashbord1.png" width="700"/>
-<img src="./assets/darkdashbord2.png" width="700"/>
+<img src="./src/assets/darkdashbord1.png" width="700"/>
+<img src="./src/assets/darkdashbord2.png" width="700"/>
 
 <br/>
 
 <h3> Transactions (Dark Mode)</h3>
-<img src="./assets/darktransaction.png" width="700"/>
-<img src="./assets/transaction.png" width="700"/>
+<img src="./src/assets/darktransaction.png" width="700"/>
+<img src="./src/assets/transaction.png" width="700"/>
 ---
 
 ##  Author
